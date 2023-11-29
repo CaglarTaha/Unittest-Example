@@ -1,6 +1,6 @@
 # Unittest Ödevi
 
-Bu repository, Taha Çağlar  Tarafından yapılan Unittest kütüphanesi kullanılarak yazılmış basit bir Python test örneğini içerir.
+Bu repository, Taha Çağlar ,190722092  Tarafından yapılan Unittest kütüphanesi kullanılarak yazılmış basit bir Python test örneğini içerir.
 
 ## Test Özellikleri
 
